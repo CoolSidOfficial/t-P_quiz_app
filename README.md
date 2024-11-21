@@ -2,6 +2,15 @@
 
 A fun and interactive Quiz Application built in Python that allows users to register, log in, and test their knowledge across various categories. The app can store user data using either **file handling** or an **SQLite database**, providing flexibility and scalability.
 
+
+
+
+
+![Uploading image.png…]()
+
+![Uploading image.png…]()
+
+
 ---
 
 ## **Features**
